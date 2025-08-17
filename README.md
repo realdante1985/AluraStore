@@ -80,5 +80,4 @@ Luego, abre el archivo alura_store_analysis.ipynb con Jupyter Notebook o cualqui
 
 ## 📌 Autor
 
-Proyecto realizado por **Javier Cañete** como parte del desafío de análisis de datos para Alura Store.  
-Si te gustó este proyecto o tenés sugerencias, ¡no dudes en abrir un issue o contribuir!
+Proyecto realizado por **Dante Salcedo** como parte del desafío de análisis de datos para Alura Store.
